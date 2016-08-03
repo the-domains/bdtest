@@ -1,19 +1,4 @@
-name: bdtest
-favicon: null
-layout_spectrum: 0.20718660368584096
 typography_spectrum: 0.9476196928881109
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2446768635418266
   saturation: 0.17900791368447244
   rhythmicContrast: 0.9508376221638173
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20718660368584096
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: bdtest
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: A New Way
 purpose: []
